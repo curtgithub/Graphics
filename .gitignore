@@ -1,6 +1,7 @@
 /OrbiterMeshGenerator/nbproject/private/
 /OrbiterMeshGenerator/build/
 /OrbiterMeshGenerator/dist/
+/OrbiterMeshGenerator/output.msh
 /FXyzLib/nbproject/private/
 /FXyzLib/build/
 /FXyzLib/dist/
@@ -15,3 +16,4 @@
 /JOrbit/build/
 /JmeOrbit/nbproject/private/
 /JmeOrbit/build/
+/JmeOrbit/dist/
